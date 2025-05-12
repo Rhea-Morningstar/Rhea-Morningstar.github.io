@@ -1,4 +1,5 @@
-#lang scribble/manual
+#lang scribble/base
+
 @(require (for-label racket))
 
 @(require scribble/core
@@ -16,6 +17,7 @@
 @image[#:scale 0.35 "./images/rockingonandon.png"]
 
 @section{About Me}
+safdk;l
 
 @section{Contact Me}
 
