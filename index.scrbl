@@ -17,7 +17,8 @@
 @image[#:scale 0.35 "./images/rockingonandon.png"]
 
 @section{About Me}
-safdk;l
+I am Gavin Rossi and I am in my second year studying Cybersecurity at Northeastern University.
+Currently, I am exploring my interests in operating systems, networking, and cryptogrophy.
 
 @section{Contact Me}
 
