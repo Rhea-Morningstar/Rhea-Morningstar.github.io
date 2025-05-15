@@ -1,6 +1,6 @@
 #lang scribble/manual
 
-@title[#:tag "my-projects" #:style 'toc]{My Projects}
+@title[#:tag "projects" #:style '(toc)]{My Projects}
 
 
 
