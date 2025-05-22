@@ -1,17 +1,16 @@
-#lang scribble/base
+#lang scribble/manual
 
 @(require (for-label racket))
 
 @(require scribble/core
           scribble/html-properties
-          scribble/latex-properties
-          scribble/manual)
+          scribble/latex-properties)
 
 @(define website-style
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
 
-@title[#:style website-style]{
+@title[#:style '(toc)]{
  @smaller{(ga)}
  @bold{Vin Rossi}}
 
@@ -26,11 +25,21 @@ While there, I founded and led the Cybersecurity club, and I organized the schoo
 Currently, I am exploring my interests in operating systems, networking, and cryptogrophy.
 
 @section{Contact Me}
-Reach out to me at my @hyperlink["https://www.linkedin.com/in/gavin-rossi"]{Linkedin} or catch me on the local Boston repeaters as KO6HUI
-@section{What Else?}
-Use the links below to navigate through my personal projects, my CV, and more !
-@subsection{@hyperlink["my-projects.html"]{Projects}}
-Here I keep an ongoing list of any recent or ongoing personal projects I'm working on,
-including the building of this website using @hyperlink["https://docs.racket-lang.org/scribble/index.html"]{Scribble}
-@subsection{@hyperlink["clubs.html"]{Clubs}}
 
+@section{What Else?}
+
+@section[#:tag "chickens"]{chickens}
+sfdsfda
+
+@section{cow}
+
+@secref["my-projects" #:doc "/my-projects.html"]
+
+@tabular[(list (list
+                (list @hyperlink["my-projects.html"]{Projects})
+                (list @hspace[2])
+                (list "CV"))
+               (list
+                (list "idk")
+                (list @hspace[1])
+                (list "smth else")))]

@@ -1,5 +1,4 @@
 #lang scribble/base
-
 @(require (for-label racket))
 
 @(require scribble/core
@@ -10,7 +9,3 @@
 @(define website-style
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
-
-@title[#:style website-style]{My Projects}
-
-

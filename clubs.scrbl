@@ -11,6 +11,10 @@
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
 
-@title[#:style website-style]{My Projects}
+@title[#:style website-style]{Clubs and Leadership}
+ 
+@section{CTF Club - Co-Founder and President}
 
+@section{NU Wireless - Outreach}
 
+@section{Re-E-Waste - Founder}
