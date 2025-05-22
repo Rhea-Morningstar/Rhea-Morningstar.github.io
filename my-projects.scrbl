@@ -13,4 +13,8 @@
 
 @title[#:style website-style]{My Projects}
 
+@section{rossi.vin}
+To create this website, I used a tool called @hyperlink["https://docs.racket-lang.org/scribble/index.html"]{Scribble}.
+
+
 
