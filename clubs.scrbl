@@ -17,4 +17,4 @@
 
 @section{NU Wireless - Outreach}
 
-@section{Re-E-Waste - Founder}
+@section{Re-Waste - Founder}
