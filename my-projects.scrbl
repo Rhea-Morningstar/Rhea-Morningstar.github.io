@@ -11,6 +11,8 @@
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
 
+@hyperlink["index.html"]{Home}
+
 @title[#:style website-style]{My Projects}
 
 @section{rossi.vin}

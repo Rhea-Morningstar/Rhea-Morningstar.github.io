@@ -11,6 +11,8 @@
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
 
+@hyperlink["index.html"]{Home}
+
 @title[#:style website-style]{Clubs and Leadership}
  
 @section{CTF Club - Co-Founder and President}

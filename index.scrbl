@@ -10,7 +10,6 @@
 @(define website-style
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
-
 @title[#:style website-style]{
  @smaller{(ga)}
  @bold{Vin Rossi}}
