@@ -26,11 +26,11 @@ While there, I founded and led the Cybersecurity club, and I organized the schoo
 Currently, I am exploring my interests in operating systems, networking, and cryptogrophy.
 
 @section{Contact Me}
-Reach out to me at my @hyperlink["https://www.linkedin.com/in/gavin-rossi"]{Linkedin} or catch me on the local Boston repeaters as KO6HUI
+Reach out to me at my @hyperlink["https://www.linkedin.com/in/gavin-rossi"]{Linkedin} or catch me on the local Boston repeaters as KO6HUI.
 
 @section{@hyperlink["my-projects.html"]{Projects}}
-@hyperlink["my-projects.html"]{Here} I keep an ongoing list of any recent or ongoing personal projects I'm working on,
-including the building of this website using @hyperlink["https://docs.racket-lang.org/scribble/index.html"]{Scribble}
+@hyperlink["my-projects.html"]{Here}, I keep an ongoing list of any recent or ongoing personal projects I'm working on,
+including the building of this website using @hyperlink["https://docs.racket-lang.org/scribble/index.html"]{Scribble}.
 
 @section{@hyperlink["clubs.html"]{Clubs}}
 My time participating and leading student clubs has been integral to my experience at Northeastern.
