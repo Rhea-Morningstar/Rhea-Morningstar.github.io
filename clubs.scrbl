@@ -29,7 +29,7 @@ virtual machines(and sometimes eachother's laptops), we taught integral concepts
 @image[#:scale 0.35 "./images/ctfteach.png"]
 @smaller{photo by @hyperlink["www.ryanrasc.com"]{Ryan Raschkovsky}}
 
-At the end of the semester, we organized a school wide CTF. Using an isolated switch and RDP, we set a host of computers up with Kali linux and students competed to capture
+At the end of the semester, we organized a school wide CTF. Using an isolated switch and RDP, we set up desktop computers with Kali linux and students competed to capture
 4 flags of increasing difficulty. In another room, I displayed live footage of the contestants screens to an audience of non-competitors and explained the tools and methods
 they were utilizing. The whole event was livestreamed to Twitch and posted on youtube @hyperlink["https://youtu.be/qXuU_Ugfplk?si=ydAYwsyg8bs-zzWo"]{here}.
 
