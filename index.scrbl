@@ -14,7 +14,7 @@
  @smaller{(ga)}
  @bold{Vin Rossi}}
 
-@image[#:scale 0.35 "./images/rockingonandon.png"]
+@image[#:scale 0.35 "./images/rockingonandon_02.png"]
 
 @section{About Me}
 My name is Gavin Rossi and I am in my second year studying Cybersecurity at Northeastern University.
