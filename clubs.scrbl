@@ -19,7 +19,7 @@
 
 I spent my Fall '24 semester studying abraod at the American College of Thessaloniki(ACT). While there, I
 noticed a lack of a Cybersecurity centric club, and I decided to create my own. Along with my classmates
-@hyperlink["www.ryanrasc.com"]{Ryan Raschkovsky}, @hyperlink["cooperoliff.com"]{Cooper Oliff}, and @hyperlink["https://www.linkedin.com/in/aravbudhiraja/"]{Arav Budhiraja},
+@hyperlink["https://www.ryanrasc.com"]{Ryan Raschkovsky}, @hyperlink["https://www.cooperoliff.com"]{Cooper Oliff}, and @hyperlink["https://www.linkedin.com/in/aravbudhiraja/"]{Arav Budhiraja},
 I founded and led a Cybersecurity CTF Club for my duration at ACT. 
 
 I oranized weekly meetings and taught cybersecurity skills to a wide community of students. Through informational lectures, I taught members networking concepts such as
