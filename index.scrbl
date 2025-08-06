@@ -11,8 +11,8 @@
    (make-style "WebsiteStyle"
                (list (make-css-addition "custom-css.css"))))
 @title[#:style website-style]{
- @smaller{(ga)}
  @bold{Vin Rossi}}
+
 
 @image[#:scale 0.35 "./images/rockingonandon_02.png"]
 

@@ -695,8 +695,9 @@ blockquote > blockquote.SVInsetFlow {
 }
 
 /* phone + tablet styles */
+/* phone + tablet styles */
 
-@media only screen and (max-width:720px){
+@media all and (max-width:720px){
 
 
     @media all and (max-width:720px){
@@ -778,7 +779,6 @@ blockquote > blockquote.SVInsetFlow {
     }
 
 }
-
 /* print styles : hide the navigation elements */
 @media print {
     .tocset,
